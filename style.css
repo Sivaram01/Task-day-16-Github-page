@@ -1,0 +1,36 @@
+
+
+body{
+  background-color: rgb(202,210,197);
+}
+
+.bg{
+  padding: 10px;
+  background-color: grey;
+  border: 1px solid rgb(160, 155, 156);
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  border-radius: 20px; 
+}
+
+.one{
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+
+
+.left{
+  padding: 10px;
+  background-color: grey;
+  border: 1px solid rgb(160, 155, 156);
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  border-radius: 20px; 
+}
